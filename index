@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<head>
+<style>
+ h1 {
+      font-size: 70px;
+    }
+</style>
+</head>
+<body>
+	<header>
+	<h1>Cecilia Carnell</h1>
+	</header>
+<h2>About Me</h2>
+<p>
+Hi there! I am Cecilia Carnell and I am a recent physics graduate from the Universit of Birmingham!
+</p>
+</body>
